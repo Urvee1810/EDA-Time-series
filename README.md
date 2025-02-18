@@ -10,7 +10,7 @@ Module: Business Analytics
 
 Project Type: Team
 
-Objective:
+# Learning Outcomes:
 - perform Exploratory data analysis (EDA) of the time series
 - perform Time series behaviour analysis in qualitative and quantitative terms
 - summarize the findings based on the EDA
