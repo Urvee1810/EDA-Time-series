@@ -11,7 +11,7 @@ The dataset is a French retail company quarterly sales data that has been made a
 """
 
 #Download Dataset
-!wget -qq https://cdn.iisc.talentsprint.com/CDS/Datasets/ts_frenchretail.csv
+!wget -qq https://
 
 """### Importing libraries
 
